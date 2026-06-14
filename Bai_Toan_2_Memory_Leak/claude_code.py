@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 
 
 # ──────────────────────────────────────────────
-# PHƯƠNG PHÁP 1: Chunked Pandas (khuyên dùng)
+# PHƯƠNG PHÁP Chunked Pandas (khuyên dùng)
 # Đơn giản, nhanh, dễ mở rộng thêm xử lý logic
 # ──────────────────────────────────────────────
 def tinh_tong_doanh_thu_pandas(
