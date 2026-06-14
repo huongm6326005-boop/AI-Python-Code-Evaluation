@@ -1,8 +1,3 @@
-"""
-Đọc file CSV dung lượng lớn (~10GB) và tính tổng cột 'Doanh_thu'.
-Cung cấp 4 phương pháp với độ phức tạp tăng dần.
-"""
-
 import csv
 import time
 import logging
